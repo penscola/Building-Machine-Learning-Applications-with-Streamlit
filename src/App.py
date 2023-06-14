@@ -125,8 +125,6 @@ elif option2:
 - Specifically, This app predicts the sales for up to 3 months in advance for corporation favorita '''
                      )
     
-      
-   
 #except:
  #   st.error("something went wrong")
  
