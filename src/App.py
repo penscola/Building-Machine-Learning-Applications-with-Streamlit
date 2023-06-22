@@ -7,6 +7,7 @@ import time
 import pickle
 import seaborn as sns
 import matplotlib.pyplot as plt
+import pip
 
 
 try:
@@ -131,4 +132,5 @@ except:
     otherwise contact admin!
     '''
              )
+
  
